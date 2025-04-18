@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Carpetas de instalación/distribución
+*.egg-info/
+dist/
+build/
+
+# Archivos OS (Opcional)
+.DS_Store
+Thumbs.db
